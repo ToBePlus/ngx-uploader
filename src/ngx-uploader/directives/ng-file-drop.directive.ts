@@ -50,7 +50,7 @@ export class NgFileDropDirective implements OnInit, OnDestroy {
     e.stopPropagation();
     e.preventDefault();
   }
-
+  // Event
   @HostListener('drop', ['$event'])
   public onDrop(e: any) {
     e.stopPropagation();
