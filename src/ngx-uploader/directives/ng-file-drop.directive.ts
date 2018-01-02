@@ -62,7 +62,7 @@ export class NgFileDropDirective implements OnInit, OnDestroy {
   }
 
   @HostListener('dragover', ['$event'])
-  public onDragOver(e: Event) {
+  public onDragOver(e: any) {
     if (!e) {
       return;
     }
@@ -72,7 +72,7 @@ export class NgFileDropDirective implements OnInit, OnDestroy {
   }
 
   @HostListener('dragleave', ['$event'])
-  public onDragLeave(e: Event) {
+  public onDragLeave(e: any) {
     if (!e) {
       return;
     }
