@@ -1,6 +1,6 @@
 {
   "name": "ngx-uploader",
-  "version": "4.2.1",
+  "version": "1.0.0",
   "main": "bundles/ngx-uploader.umd.js",
   "module": "lib/index.js",
   "scripts": {
@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkuri/ngx-uploader.git"
+    "url": "git+https://github.com/ToBePlus/ngx-uploader.git"
   },
   "authors": [
-    "Jan Kuri <jkuri88@gmail.com>"
+    "二当家 <float1101@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jkuri/ngx-uploader/issues"
+    "url": "https://github.com/ToBePlus/ngx-uploader/issues"
   },
-  "homepage": "https://github.com/jkuri/ngx-uploader#readme",
+  "homepage": "https://github.com/ToBePlus/ngx-uploader#readme",
   "devDependencies": {
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
