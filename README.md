@@ -22,10 +22,10 @@ If you are looking for documentation for version prior to `3.0.0`, please check 
 
 ## Installation
 
-1. Add `ngx-uploader` module as dependency to your project.
+1. Add `ngx-uploader-th` module as dependency to your project.
 
 ```
-npm install ngx-uploader --save
+npm install ngx-uploader-th --save
 ```
 
 2. Include `NgUploaderModule` into your main AppModule or in module where you will use it.
